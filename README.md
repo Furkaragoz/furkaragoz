@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Furkan Karagöz</h1>
-<h3 align="center">Senior Data Scientist | Big Data Engineer | VR Enthusiast</h3>
+<h3 align="center">Senior Data Scientist | Big Data Engineer | MLOps Enthusiast</h3>
 
 <p align="center">
-🚀 Passionate about building scalable AI & data systems, visualizing insights from massive datasets, and experimenting with immersive tech like VR/AR.
+🚀 Passionate about building scalable AI & data systems, visualizing insights from massive datasets, and deploying ML models with modern tools.
 </p>
 
 ---
@@ -28,8 +28,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/gradio-app/gradio@main/logo.svg" width="40" height="40" alt="Gradio"/>
-  <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/imgs/logo.png" width="40" height="40" alt="LlamaIndex"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/images/logo.png" width="40" height="40" alt="LangChain"/>
 </p>
 
 ---
@@ -41,6 +41,7 @@
   <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" width="40" height="40" alt="Apache NiFi"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" height="40" alt="Apache Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch"/>
 </p>
 
@@ -52,7 +53,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo.svg" width="40" height="40" alt="Unreal Engine"/>
+  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" width="40" height="40" alt="Kubeflow"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>
 </p>
 
 ---
@@ -60,7 +62,4 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkaragoz&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkaragoz&show_icons=true&locale=en" alt="Furkan's Stats" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkaragoz&show_icons=true&locale=en&layout=compact" alt="Top Langs"_
