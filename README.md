@@ -29,7 +29,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="Hugging Face"/>
-  <img src="https://avatars.githubusercontent.com/u/139914418?s=200&v=4" width="40" height="40" alt="LangChain"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuQzHTOV_kG-46aFawveFoAM8jG0aQ6lqbg&s" width="40" height="40" alt="LangChain"/>
 </p>
 
 ---
@@ -53,8 +53,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://www.kubeflow.org/images/logos/kubeflow-logo-24.png" width="40" height="40" alt="Kubeflow"/>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" height="40" alt="MLflow"/>
+  <img src="https://logowik.com/content/uploads/images/kubeflow8469.logowik.com.webp" width="40" height="40" alt="Kubeflow"/>
+  <img src="https://cdn.brandfetch.io/mlflow.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="40" height="40" alt="MLflow"/>
 </p>
 
 ---
