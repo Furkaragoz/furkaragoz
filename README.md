@@ -28,8 +28,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  <img src="https://gradio.app/assets/img/logo.svg" width="40" height="40" alt="Gradio"/>
-  <img src="https://github.com/jerryjliu/llama_index/blob/main/docs/imgs/llama.png?raw=true" width="40" height="40" alt="LlamaIndex"/>
+  <img src="https://cdn.jsdelivr.net/gh/gradio-app/gradio@main/logo.svg" width="40" height="40" alt="Gradio"/>
+  <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/imgs/logo.png" width="40" height="40" alt="LlamaIndex"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="Apache Spark"/>
   <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" width="40" height="40" alt="Apache NiFi"/>
-  <img src="https://raw.githubusercontent.com/apache/airflow-site/main/images/airflow.png" width="40" height="40" alt="Apache Airflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" height="40" alt="Apache Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch"/>
 </p>
@@ -49,7 +49,7 @@
 #### 🔹 DevOps & MLOps
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo.svg" width="40" height="40" alt="Unreal Engine"/>
