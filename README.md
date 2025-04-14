@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  <img src="[[https://huggingface.co/front/assets/huggingface_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuggingface.co%2Fbrand&psig=AOvVaw0LsrX4V2wE9S1zMv9kvZya&ust=1744713403771000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj5ooeq14wDFQAAAAAdAAAAABAE)](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png)" width="40" height="40" alt="Hugging Face"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="Hugging Face"/>
   <img src="https://avatars.githubusercontent.com/u/139914418?s=200&v=4" width="40" height="40" alt="LangChain"/>
 </p>
 
