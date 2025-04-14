@@ -41,7 +41,7 @@
   <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" width="40" height="40" alt="Apache NiFi"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" height="40" alt="Apache Airflow"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/4e6b2516d29a054b22aee3ca9c81940e82b9b2b0/svg/amazonaws.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="40" height="40" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch"/>
 </p>
 
