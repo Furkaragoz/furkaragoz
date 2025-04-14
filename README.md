@@ -29,7 +29,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="Hugging Face"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuQzHTOV_kG-46aFawveFoAM8jG0aQ6lqbg&s" width="40" height="40" alt="LangChain"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/langchain-logo_brandlogos.net_9zgaw-512x512.png" width="40" height="40" alt="LangChain"/>
 </p>
 
 ---
